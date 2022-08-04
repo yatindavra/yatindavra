@@ -2,7 +2,7 @@
 
 ## I'm a  Enthusiatics Web Developer!
 
-- 👯 I’m looking to collaborate on <b>With other DEvelopers</b>
+- 👯 I’m looking to collaborate on <b>With other Developers</b>
 - 🤔 I’m looking for help with <b>Web Development</b>
 - ⚡ Fun fact: <b>I love to Code and Watching Netflix</b>
 
