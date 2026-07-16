@@ -2,7 +2,7 @@
 
 ### Full-Stack Software Engineer building production-grade SaaS platforms.
 
-I’m a self-taught software engineer from Gujarat, India with a Mechanical Engineering background who transitioned into software development by building real-world products.
+I'm a Full-Stack Software Engineer with 4+ years of experience building production-grade web applications, SaaS platforms, and developer tools. I enjoy turning complex business requirements into scalable, secure, and intuitive software.
 
 Today I design, develop and ship scalable web applications—from database architecture and backend APIs to responsive frontends and cloud deployments.
 
